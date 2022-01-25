@@ -1,3 +1,4 @@
+#code is explained at : https://www.codexpace.ml/2022/01/screenshot-with-python.html
 import win32gui
 import win32ui
 import win32con
